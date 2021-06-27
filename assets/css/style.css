@@ -84,11 +84,36 @@ h3 {
     border-bottom: 1px solid #fff;
 }
 
-/* Main image */
+/* Main image and cover text*/
 
 #main-image {
     height: 700px;
     width: 100%;
     background: url(../images/main-image.jfif) no-repeat center center;
     overflow: hidden;
+}
+
+#cover-text, #cover-text h2 {
+    color: #fff;
+    font-size: 200%;
+}
+
+#cover-text {
+    font-size: 100%;
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 250px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgb(81, 100, 160, .7);
+
+    bottom: 50px;
+    left: 100px;
+
+    position: absolute;
 }

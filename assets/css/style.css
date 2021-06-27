@@ -39,3 +39,16 @@ h1, h2 {
     color: #fff;
     padding: 10px 5px 5px 5px;
 }
+
+.sponsor {
+    height: 75px;
+    width: 75px;
+    float: right;
+}
+
+h3 {
+    font-family: Roboto, sans-serif;
+    float: right;
+    color: #fff;
+    padding: 25px 5px;
+}

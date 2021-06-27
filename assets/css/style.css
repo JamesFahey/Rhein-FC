@@ -1,3 +1,8 @@
 body {
     font-family: Arial;
 }
+
+.badge {
+    width: 75px;
+    height: 75px;
+}

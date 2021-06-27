@@ -37,7 +37,7 @@ h1, h2 {
     float: left;
     font-size: 300%;
     color: #fff;
-    padding: 10px 5px 5px 5px;
+    margin-left: 5px;
 }
 
 .sponsor {
@@ -50,5 +50,36 @@ h3 {
     font-family: Roboto, sans-serif;
     float: right;
     color: #fff;
-    padding: 25px 5px;
+    margin-right: 5px;
+}
+
+/* Navigation links */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+#menu, #logo, h3 {
+    line-height: 75px;
+}
+
+#menu li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #fff;
+}
+
+.active {
+    border-bottom: 1px solid #fff;
 }

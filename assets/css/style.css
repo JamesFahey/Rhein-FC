@@ -9,9 +9,32 @@
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
+    color: #3a3a3a;
 }
+
+header {
+    background: #0F74BC;
+    height: 75px;
+}
+
+/* Headings and logo */
 
 .badge {
     width: 75px;
     height: 75px;
+    float: left;
+    padding-left: 5px;
+}
+
+h1, h2 {
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #0F74BC;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
+    color: #fff;
 }

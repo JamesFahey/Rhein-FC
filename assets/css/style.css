@@ -117,3 +117,20 @@ h3 {
 
     position: absolute;
 }
+
+/* Club bio */
+
+#club-bio {
+    height: 500px;
+}
+
+#column-left {
+    width: 60%;
+    float: left;
+}
+
+#column-right {
+    width: 40%;
+    float: right;
+}
+

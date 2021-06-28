@@ -125,24 +125,54 @@ h3 {
 }
 
 #column-left {
-    width: 50%;
+    width: 45%;
     float: left;
-    padding: 20px;
+    margin-left: 20px;
+    padding: 20px 0 ;
 }
 
 #column-right {
-    width: 40%;
+    width: 50%;
     float: right;
+}
+
+hr {
+    border-top: 1px solid #0F74BC;
+    width: 100%;
+    margin: 5px 0;
 }
 
 .column-left-heading {
     width: 70%;
-    padding-bottom: 20px;
+    line-height: 20px;
+    padding-bottom: 25px;
     margin: 0 auto;
 }
 
-#intro {
+#sub-title {
     text-align: center;
     margin: 20px 0;
     font-size: 300%;
+}
+
+.image-right {
+    height: 450px;
+    width: 100%;
+    background: url(../images/right-image1.jpg) no-repeat center center;
+    overflow: hidden;
+}
+
+/* Club location */
+
+.location {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#map {
+    margin-left: 10px;
+}
+
+/* footer */
+
 }

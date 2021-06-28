@@ -125,8 +125,9 @@ h3 {
 }
 
 #column-left {
-    width: 60%;
+    width: 50%;
     float: left;
+    padding: 20px;
 }
 
 #column-right {
@@ -135,5 +136,13 @@ h3 {
 }
 
 .column-left-heading {
-    width: 60%;
+    width: 70%;
+    padding-bottom: 20px;
+    margin: 0 auto;
+}
+
+#intro {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 300%;
 }

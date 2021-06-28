@@ -175,4 +175,21 @@ hr {
 
 /* footer */
 
+footer {
+    height: 75px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 1%;
+    color: #0F74BC;
 }

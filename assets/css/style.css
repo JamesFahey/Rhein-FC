@@ -46,7 +46,7 @@ h1, h2 {
     float: right;
 }
 
-h3 {
+#koop {
     font-family: Roboto, sans-serif;
     float: right;
     color: #fff;
@@ -61,7 +61,7 @@ h3 {
     text-align: center;
 }
 
-#menu, #logo, h3 {
+#menu, #logo, #koop {
     line-height: 75px;
 }
 
@@ -103,6 +103,7 @@ h3 {
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
+    line-height: 50px;
 
     width: 300px;
     height: 250px;

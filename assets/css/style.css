@@ -194,3 +194,38 @@ footer {
     padding: 1%;
     color: #0F74BC;
 }
+
+/* Fixtures */
+
+#fixtures {
+    background-image: url(../images/fixtures.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#fixtures div {
+    color: #fff;
+    background-color: rgba(0, 0, 0, .4);
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding-top: 40px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+#fixtures div h2 {
+    color: #fff;
+    border-bottom: 1px solid #fff;
+    margin-bottom: 10px;
+}
+
+#fix-title {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 300%;
+}

@@ -229,3 +229,15 @@ footer {
     margin: 20px 0;
     font-size: 300%;
 }
+
+/* League standings */
+
+#table-title {
+    text-align: center;
+    margin: 40px 0 20px 0;
+    font-size: 300%;
+}
+
+table {
+    width: 100%;
+}

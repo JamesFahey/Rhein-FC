@@ -113,7 +113,7 @@ h1, h2 {
 
     background-color: rgb(81, 100, 160, .7);
 
-    bottom: 50px;
+    top: 300px;
     left: 100px;
 
     position: absolute;
@@ -261,3 +261,10 @@ td {
     letter-spacing: 2px;
 }
 
+/* Team */
+
+#team-background {
+    height: 250px;
+    width: 250px;
+    background-color: #0F74BC;
+}

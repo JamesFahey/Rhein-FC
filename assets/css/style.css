@@ -266,5 +266,16 @@ td {
 #team-background {
     height: 250px;
     width: 250px;
+    float: left;
+    margin: 10px 20px;
     background-color: #0F74BC;
 }
+
+#midfield {
+    column-count: 5;
+    text-align: center;
+    color: #0F74BC;
+    font-size: 150%;
+}
+
+

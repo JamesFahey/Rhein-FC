@@ -269,7 +269,8 @@ td {
     font-size: 300%;
 }
 
-#team-background {
+.team-background {
+    position: relative;
     height: 250px;
     width: 250px;
     float: left;
@@ -277,11 +278,9 @@ td {
     background-color: #0F74BC;
 }
 
-#midfield {
-    column-count: 6;
-    text-align: center;
-    color: #0F74BC;
-    font-size: 150%;
+.team-background img {
+    transition: 2s;
+    width: 100%;
 }
 
 #pos-title {
@@ -293,6 +292,10 @@ td {
     text-align: center;
     color: #0F74BC;
     font-size: 150%;
+}
+
+.team-background:hover img {
+    transform: scale(1.1);
 }
 
 

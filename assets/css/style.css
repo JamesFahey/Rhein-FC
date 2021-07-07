@@ -273,7 +273,7 @@ td {
     height: 250px;
     width: 250px;
     float: left;
-    margin: 10px 20px;
+    margin: 20px 20px 30px 20px;
     background-color: #0F74BC;
 }
 
@@ -285,9 +285,14 @@ td {
 }
 
 #pos-title {
-    margin-left: 20px;
+    margin: 20px 0 0 20px;
 }
 
-
+#goalkeeper {
+    column-count: 1;
+    text-align: center;
+    color: #0F74BC;
+    font-size: 150%;
+}
 
 

@@ -263,6 +263,12 @@ td {
 
 /* Team */
 
+#team-title {
+    text-align: center;
+    margin: 40px 0 20px 0;
+    font-size: 300%;
+}
+
 #team-background {
     height: 250px;
     width: 250px;
@@ -272,10 +278,16 @@ td {
 }
 
 #midfield {
-    column-count: 5;
+    column-count: 6;
     text-align: center;
     color: #0F74BC;
     font-size: 150%;
 }
+
+#pos-title {
+    margin-left: 20px;
+}
+
+
 
 

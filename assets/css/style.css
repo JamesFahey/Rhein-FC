@@ -170,6 +170,11 @@ hr {
 
 /* Club location */
 
+#sub-title {
+    margin-top: 50px;
+    text-align: center;
+}
+
 .location {
     text-align: center;
     margin-bottom: 10px;
@@ -270,7 +275,6 @@ td {
 }
 
 .team-background {
-    position: relative;
     height: 250px;
     width: 250px;
     float: left;

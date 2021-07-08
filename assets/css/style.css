@@ -170,11 +170,6 @@ hr {
 
 /* Club location */
 
-#sub-title {
-    margin-top: 50px;
-    text-align: center;
-}
-
 .location {
     text-align: center;
     margin-bottom: 10px;
@@ -308,5 +303,25 @@ td {
     background-color: #0F74BC;
     height: 500px;
     width: 500px;
+    margin: 0 auto;
     text-align: center;
+}
+
+#stats div {
+    width: 25%;
+    margin-bottom: 20px;
+    float: left;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 125%;
+}
+
+#stats div p {
+    font-size: 150%;
+}
+
+#stats-title {
+    text-align: center;
+    margin: 5px;
+    font-size: 200%;
 }

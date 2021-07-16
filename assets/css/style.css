@@ -263,6 +263,34 @@ td {
 
 /* Team */
 
+.squad {
+    text-align: center;
+}
+
+.player-card {
+    height: 250px;
+    width: 250px;
+    background-color: #0F74BC;
+    margin: 10px;
+    overflow: hidden;
+}
+
+ul {
+    text-align: center;
+    color: #0F74BC;
+    font-size: 150%;
+}
+
+
+.squad img {
+    transition: 2s;
+    
+}
+
+.player-card:hover {
+    transform: scale(1.1);
+}
+
 #team-title {
     text-align: center;
     margin: 40px 0 20px 0;
@@ -287,7 +315,7 @@ td {
 }
 
 #goalkeeper {
-    column-count: 1;
+    column-count: 4;
     text-align: center;
     color: #0F74BC;
     font-size: 150%;

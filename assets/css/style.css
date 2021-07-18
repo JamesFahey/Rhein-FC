@@ -127,14 +127,17 @@ h1, h2 {
 
 #column-left {
     width: 45%;
+    height: 300px;
     float: left;
     margin-left: 20px;
+    margin-bottom: 20px;
     padding: 20px 0 ;
 }
 
 #column-right {
-    width: 50%;
-    float: right;
+    height: 400px;
+    background: url(../images/right-image3.jpg) no-repeat center center;
+    overflow: hidden;
 }
 
 hr {
@@ -155,18 +158,6 @@ hr {
     margin: 20px 0;
     font-size: 300%;
 }
-
-.image-right {
-    width: 90%;
-    height: 450px;
-}
-
-/*.image-right {
-    height: 450px;
-    width: 100%;
-    background: url(../images/right-image1.jpg) no-repeat center center;
-    overflow: hidden;
-} */
 
 /* Club location */
 
@@ -338,16 +329,19 @@ ul {
     text-align: center;
 }
 
-#stats div {
-    width: 25%;
-    margin-bottom: 20px;
-    float: left;
-    padding-top: 30px;
+.stats {
+    margin: 20px 10px 0px;
     text-align: center;
     font-size: 125%;
+    overflow: hidden;
 }
 
-#stats div p {
+.stats > li {
+    display: inline-block;
+    margin: 5px 20px;
+}
+
+.stats li p {
     font-size: 150%;
 }
 

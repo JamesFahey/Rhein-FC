@@ -276,9 +276,12 @@ td {
 }
 
 ul {
-    text-align: center;
     color: #0F74BC;
     font-size: 150%;
+}
+
+.squad > li {
+    display: inline-block;
 }
 
 

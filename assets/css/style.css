@@ -415,3 +415,21 @@ ul {
     text-align: center;
     font-size: 140%;
 }
+
+/* For medium screen sizes from 950px and down */
+
+@media screen and (max-width: 950px) {
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 20px;
+        margin-bottom: 15px;
+        line-height: 20px;
+    }
+
+    header {
+        background: #0F74BC;
+        height: 125px;
+    }
+}

@@ -405,3 +405,13 @@ ul {
     background-color: #fafafa;
     color: #f16c6b;
 }
+
+.signup-form h3 {
+    color: #fafafa;
+    margin-bottom: 20px;
+    padding: 5px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 140%;
+}

@@ -416,7 +416,26 @@ ul {
     font-size: 140%;
 }
 
-/* For medium screen sizes from 950px and down */
+/* Media queries */
+
+/* For larger and medium screen sizes from 1200px wide and down */
+
+@media screen and (max-width: 1200px) {
+    #club-bio {
+        width: 65%;
+        height: 1000px;
+        margin: 0 auto;
+    }
+
+    #column-left, #column-right {
+        width: 100%;
+        float: left;
+        margin-bottom: 5px;
+        height: 400px;
+    }
+}
+
+/* For medium screen sizes from 950px wide and down */
 
 @media screen and (max-width: 950px) {
 

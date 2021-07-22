@@ -235,8 +235,9 @@ footer {
 }
 
 table {
-    width: 100%;
+    width: 60%;
     border: 1px solid #3a3a3a;
+    margin: 0 auto;
 }
 
 td {

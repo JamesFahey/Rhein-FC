@@ -433,6 +433,13 @@ ul {
         margin-bottom: 5px;
         height: 400px;
     }
+
+    #fixtures div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
 }
 
 /* For medium screen sizes from 950px wide and down */
@@ -450,6 +457,16 @@ ul {
     header {
         background: #0F74BC;
         height: 125px;
+    }
+
+    #club-bio {
+        width: 90%;
+    } 
+
+    .column-left-heading {
+        width: 90%;
+        margin: 5px;
+        text-align: center;
     }
 }
 
@@ -500,10 +517,6 @@ ul {
         margin: 5px;
         text-align: center;
     }
-
-    /* .column-left-heading h2 p {
-        text-align: center;
-    } */
 
     #sub-title {
         font-size: 250%;

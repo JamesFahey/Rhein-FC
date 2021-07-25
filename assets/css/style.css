@@ -264,6 +264,10 @@ td {
     margin: auto;
 }
 
+#goalkeeper {
+    margin-bottom: 40px;
+}
+
 #defenders {
     margin-left: 10%;
 }
@@ -273,6 +277,23 @@ td {
     margin-bottom: 30px;
 }
 
+#midfielders {
+    margin-left: 10%;
+}
+
+#midfielders div{
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+#attackers {
+    margin-left: 10%;
+}
+
+#attackers div{
+    display: inline-block;
+    margin-bottom: 30px;
+}
 
 .flip-card {
     background-color: transparent;
@@ -334,64 +355,18 @@ td {
 
 
 
-.squad {
-    text-align: center;
-}
-
-.player-card {
-    height: 250px;
-    width: 250px;
-    background-color: #0F74BC;
-    margin: 10px;
-    overflow: hidden;
-}
-
-ul {
-    color: #0F74BC;
-    font-size: 150%;
-}
-
-.squad > li {
-    display: inline-block;
-}
-
-
-.squad img {
-    transition: 2s;
-    
-}
-
-.player-card:hover {
-    transform: scale(1.1);
-}
-
 #team-title {
     text-align: center;
     margin: 40px 0 20px 0;
     font-size: 300%;
 }
 
-.team-background {
-    height: 250px;
-    width: 250px;
-    float: left;
-    margin: 20px 20px 30px 20px;
-    background-color: #0F74BC;
+.pos-title {
+    margin: 20px;
+    text-align: center;
+    font-size: 160%;
 }
 
-.team-background img {
-    transition: 2s;
-    width: 100%;
-}
-
-#pos-title {
-    margin: 20px 0 0 20px;
-}
-
-
-.team-background:hover img {
-    transform: scale(1.1);
-}
 
 /* Stats */
 

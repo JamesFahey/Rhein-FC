@@ -264,6 +264,15 @@ td {
     margin: auto;
 }
 
+#defenders {
+    margin-left: 10%;
+}
+
+#defenders div{
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
 
 .flip-card {
     background-color: transparent;
@@ -278,7 +287,7 @@ td {
     position: relative;
     width: 100%;
     height: 100%;
-    text-align: center;
+    
     transition: transform 0.8s;
     transform-style: preserve-3d;
   }
@@ -293,6 +302,7 @@ td {
     width: 100%;
     height: 100%;
     backface-visibility: hidden;
+    text-align: center;
   }
 
   /* Style the front side (fallback if image is missing) */
@@ -317,9 +327,9 @@ td {
   }
 
   .flip-card-back p {
-    margin: 5px;
+    margin: 4px;
     font-size: 130%;
-    padding: 3px;
+    padding: 2px;
   }
 
 

@@ -170,6 +170,11 @@ hr {
     text-align: center;
 }
 
+.google-map {
+    height: 400px;
+    width: 90%;
+}
+
 /* footer */
 
 footer {

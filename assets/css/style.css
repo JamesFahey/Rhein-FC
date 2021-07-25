@@ -179,6 +179,7 @@ hr {
 
 footer {
     height: 75px;
+    bottom: 0;
 }
 
 .social-networks {
@@ -572,4 +573,35 @@ td {
         margin: 10px 0;
     }
 
+}
+
+/* For phone screen sizes from 410px wide and down */
+
+@media screen and (max-width: 410px) {
+    .badge {
+        width: 50px;
+        height: 60px;
+    }
+
+    .sponsor {
+        height: 60px;
+        width: 60px;
+    }
+
+    #koop {
+        font-size: 80%;
+    }
+
+    #menu {
+        font-size: 80%;
+        margin-left: 10px;
+    }
+
+    #logo {
+        font-size: 180%;
+    }
+
+    #column-right {
+        right: 20px;
+    }
 }

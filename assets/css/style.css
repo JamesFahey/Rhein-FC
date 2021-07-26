@@ -599,11 +599,11 @@ td {
     }
 
     #logo {
-        font-size: 160%;
+        font-size: 170%;
     }
 
     #menu li{
-        margin-right: 5px;
+        margin-right: 10px;
     }
 
 }

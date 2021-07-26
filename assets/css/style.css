@@ -559,7 +559,7 @@ td {
     }
 
     #column-right {
-        margin: 0;
+        background-position: right center;
     }
 
     .column-left-heading {
@@ -601,7 +601,7 @@ td {
         font-size: 180%;
     }
 
-    #column-right {
-        right: 20px;
-    }
+    /* #column-right {
+      background-position: right center;
+    } */
 }

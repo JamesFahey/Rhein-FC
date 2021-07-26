@@ -579,29 +579,31 @@ td {
 
 @media screen and (max-width: 410px) {
     .badge {
-        width: 50px;
-        height: 60px;
+        width: 45px;
+        height: 55px;
+        padding: 0;
     }
 
     .sponsor {
-        height: 60px;
-        width: 60px;
+        height: 50px;
+        width: 50px;
     }
 
     #koop {
-        font-size: 80%;
+        font-size: 70%;
     }
 
     #menu {
-        font-size: 80%;
+        font-size: 75%;
         margin-left: 10px;
     }
 
     #logo {
-        font-size: 180%;
+        font-size: 170%;
     }
 
-    /* #column-right {
-      background-position: right center;
-    } */
+    #menu li{
+        margin-right: 10px;
+    }
+
 }

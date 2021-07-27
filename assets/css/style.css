@@ -161,6 +161,12 @@ hr {
 
 /* Club location */
 
+#location-title {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 300%;
+}
+
 .location {
     text-align: center;
     margin-bottom: 10px;
@@ -570,6 +576,11 @@ td {
     }
 
     #sub-title {
+        font-size: 250%;
+        margin: 10px 0;
+    }
+
+    #location-title {
         font-size: 250%;
         margin: 10px 0;
     }

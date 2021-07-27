@@ -347,7 +347,7 @@ td {
     transform: rotateY(180deg);
   }
 
-  .flip-card-back h1 {
+  .flip-card-back h2 {
     color: white;
     margin-bottom: 5px;
     padding: 5px;

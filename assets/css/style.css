@@ -352,6 +352,7 @@ td {
     margin: 4px;
     font-size: 130%;
     padding: 2px;
+    text-align: left;
   }
 
 
@@ -573,6 +574,7 @@ td {
         margin: 10px 0;
     }
 
+
 }
 
 /* For phone screen sizes from 410px wide and down */
@@ -604,6 +606,26 @@ td {
 
     #menu li{
         margin-right: 10px;
+    }
+
+    #defenders {
+        margin-left: 5%;
+    }
+
+    #midfielders {
+        margin-left: 5%;
+    }
+
+    #attackers {
+        margin-left: 5%;
+    }
+
+    #goalkeeper {
+        margin-left: 5%;
+    }
+
+    #goalkeeper div {
+        display: inline-block;
     }
 
 }

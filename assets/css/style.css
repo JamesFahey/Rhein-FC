@@ -585,6 +585,38 @@ td {
         margin: 10px 0;
     }
 
+    #defenders {
+        margin-left: 0;
+        margin-bottom: 40px;
+    }
+    
+    #defenders div{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #midfielders {
+        margin-left: 0;
+        margin-bottom: 40px;
+    }
+    
+    #midfielders div{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #attackers {
+        margin-left: 0;
+        margin-bottom: 40px;
+    }
+    
+    #attackers div{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 
 }
 
@@ -619,24 +651,12 @@ td {
         margin-right: 10px;
     }
 
-    #defenders {
-        margin-left: 5%;
-    }
-
     #midfielders {
         margin-left: 5%;
     }
 
     #attackers {
         margin-left: 5%;
-    }
-
-    #goalkeeper {
-        margin-left: 5%;
-    }
-
-    #goalkeeper div {
-        display: inline-block;
     }
 
 }

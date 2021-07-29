@@ -562,7 +562,7 @@ td {
     }
 
     #club-bio {
-        width: 100%;
+        width: 90%;
         height: 1000px;
         margin: 0 auto;
     }
@@ -590,39 +590,6 @@ td {
         font-size: 250%;
         margin: 10px 0;
     }
-
-    /* #defenders {
-        margin-left: 0;
-        margin-bottom: 40px;
-    }
-    
-    #defenders div{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    #midfielders {
-        margin-left: 0;
-        margin-bottom: 40px;
-    }
-    
-    #midfielders div{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    #attackers {
-        margin-left: 0;
-        margin-bottom: 40px;
-    }
-    
-    #attackers div{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    } */
 
 }
 

@@ -276,30 +276,36 @@ td {
 }
 
 #defenders {
-    margin-left: 10%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 #defenders div{
-    display: inline-block;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 #midfielders {
-    margin-left: 10%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 #midfielders div{
-    display: inline-block;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 #attackers {
-    margin-left: 10%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 #attackers div{
-    display: inline-block;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 .flip-card {
@@ -585,7 +591,7 @@ td {
         margin: 10px 0;
     }
 
-    #defenders {
+    /* #defenders {
         margin-left: 0;
         margin-bottom: 40px;
     }
@@ -616,7 +622,7 @@ td {
         display: block;
         margin-left: auto;
         margin-right: auto;
-    }
+    } */
 
 }
 

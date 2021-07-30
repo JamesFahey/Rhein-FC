@@ -388,38 +388,6 @@ td {
 }
 
 
-/* Stats */
-
-#pic {
-    background-color: #0F74BC;
-    height: 500px;
-    width: 500px;
-    margin: 0 auto;
-    text-align: center;
-}
-
-.stats {
-    margin: 20px 10px 0px;
-    text-align: center;
-    font-size: 125%;
-    overflow: hidden;
-}
-
-.stats > li {
-    display: inline-block;
-    margin: 5px 20px;
-}
-
-.stats li p {
-    font-size: 150%;
-}
-
-#stats-title {
-    text-align: center;
-    margin: 5px;
-    font-size: 200%;
-}
-
 /* form */
 
 .form-section {

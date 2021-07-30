@@ -94,24 +94,33 @@ The website will consist of 4 accessible pages via the use of the navigation bar
 ## Navigation Bar
 
 Navigation bar will be consistent across all pages on the website. It is fully responsive and will adapt to all screen size. It will link to the team, fixture and sign up page. The main logo will be used as a link back to the home page.
-The navigation bar will allow to user to access all parts of the site without the need of the back button.
+The navigation bar will allow to user to access all parts of the site without the need of the back button. It will also include a link to the team sponsor Koop.
+
+![Navigation bar](/assets/images/readme-img/nav-bar.png)
 
 ## Home Page image
 
 The home page uses a photo of the subject mater to convey to the user what the website will focus on. It also contains text overlay to provide the user the primary information about the club.
 
+![Navigation bar](/assets/images/readme-img/welcome-image.png)
+
 ## The Rhein Way section 
 
 The Rhein way section will provide further info about the club and provide the user with the benefits of joining a football team. The user will see there’s more than just playing matches when you join a team
+
+![Navigation bar](/assets/images/readme-img/rhein-way.png)
 
 ## Where to find us
 
 This section will provide the user with the location of training and home matches as well as the time of training.
 
+![Navigation bar](/assets/images/readme-img/where-to-find.png)
+
 ## Footer
 
 The footer section will provide the user with links to social media platforms. The links will open in a new tab. The footer is consistent on all pages
 
+![Navigation bar](/assets/images/readme-img/footer.png)
 
 ## Team
 
@@ -119,19 +128,26 @@ The team page will introduce the user to the current squad players. The page has
 
 This page will give the user more interactive elements in the form of hover and flip effects. When the user hovers over a certain player their card will flip revealing their season statistics.
 
+![Navigation bar](/assets/images/readme-img/our-team.png)
+
 ## Fixtures
 
 This section will allow the user to see the teams upcoming matches. Date, time, location and playing surface has been provided.
 
+![Navigation bar](/assets/images/readme-img/fixtures.png)
 
 ## League standing
 
 
 This section will provide the user with the team’s current league position
 
+![Navigation bar](/assets/images/readme-img/league-table.png)
+
 ## Sign Up
 
 This section allows users to register with the team by completing the sign up form. The form will ask the user to provide their name and contact information; email and phone number. They can also specify which position they play
+
+![Navigation bar](/assets/images/readme-img/sign-up.png)
 
 ## Features to be added 
 
@@ -252,7 +268,10 @@ In order to deploy the project I had to:
 •	from source select none and then Milestone-Projects branch.
 
 •	click save and page was deployed after auto-refresh.
-The live link to site is as follows: https://jamesfahey.github.io/Rhein-FC/
+
+The live link to site is as follows: 
+
+https://jamesfahey.github.io/Rhein-FC/
 
 
 ## Credits
@@ -287,3 +306,7 @@ The live link to site is as follows: https://jamesfahey.github.io/Rhein-FC/
 ## Thanks
 
 Special thank you to Adegbenga Adeye for his support and ideas throughout the project 
+
+## Screenshots
+
+

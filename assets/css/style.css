@@ -582,12 +582,12 @@ td {
     }
 
     #column-left {
-        width: 100%;
-        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
     }
 
     .column-left-heading {
-        width: 100%;
         margin: 5px;
         text-align: center;
     }

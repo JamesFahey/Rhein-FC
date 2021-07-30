@@ -61,7 +61,11 @@ The website has clean and simple design allowing for an easy and user friendly e
 
 I used the website wireframes.cc to create my wireframes.
 
+### Desktop
+
 ![Navigation bar](/assets/images/readme-img/wireframe-desktop.png)
+
+### Mobile
 
 ![Navigation bar](/assets/images/readme-img/wireframe-mobile.png)
 

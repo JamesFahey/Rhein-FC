@@ -497,10 +497,19 @@ td {
         margin: 0 auto;
     }
 
-    #column-left, #column-right {
+    #column-right {
         width: 100%;
         float: left;
         margin-bottom: 5px;
+        height: 400px;
+    }
+
+    #column-left {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 100%;
+        margin-left: 0;
         height: 400px;
     }
 
@@ -580,12 +589,6 @@ td {
 
     #column-right {
         background-position: right center;
-    }
-
-    #column-left {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
     }
 
     .column-left-heading {

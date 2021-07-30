@@ -246,9 +246,15 @@ footer {
     font-size: 300%;
 }
 
+#table-scroll {
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
 table {
-    width: 60%;
     border: 1px solid #3a3a3a;
+    width: 60%;
     margin: 0 auto;
 }
 

@@ -454,6 +454,18 @@ td {
     font-size: 140%;
 }
 
+/* 404 error page */
+
+#error-section {
+    clear: left;
+    background: url(../images/404-image.png);
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 75px;
+}
+
+
+
 /* Media queries */
 
 /* For larger and medium screen sizes from 1200px wide and down */

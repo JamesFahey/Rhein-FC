@@ -302,6 +302,8 @@ https://jamesfahey.github.io/Rhein-FC/
 
 •	The photos on the main page are taken by photographer @NickGerrard
 
+•	The photo on the 404 error page is taken from the telegraph images
+
 ### Map
 
 •	Taken from Google maps

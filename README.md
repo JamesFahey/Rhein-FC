@@ -1,6 +1,6 @@
-Rhein FC Website
+# Rhein FC Website
 
-(Responsive image set)
+![Responsive screens](/assets/images/readme-img/responsive-screens.png)
 
 This website hopes to provide up to date information for the football club Rhein. The site will targeted towards players looking to join a new team or just looking to play some extra football. It will also be useful for current squad members providing dates and times for upcoming games amongst other things.
 

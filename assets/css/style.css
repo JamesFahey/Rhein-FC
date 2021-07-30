@@ -464,7 +464,26 @@ td {
     padding-bottom: 75px;
 }
 
+.error-message {
+    margin: 150px 10% 0 0;
+    color: #fff;
+    background-color: rgb(81, 100, 160, .7);
+    max-width: 500px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+}
 
+.return-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #f16c6b;
+    color: #fafafa; 
+    display: block;
+}
 
 /* Media queries */
 

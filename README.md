@@ -59,6 +59,12 @@ The website has clean and simple design allowing for an easy and user friendly e
 
 ## Wireframes
 
+I used the website wireframes.cc to create my wireframes.
+
+![Navigation bar](/assets/images/readme-img/wireframe-desktop.png)
+
+![Navigation bar](/assets/images/readme-img/wireframe-mobile.png)
+
 ## Surface
 
 ## Colours

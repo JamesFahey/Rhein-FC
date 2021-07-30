@@ -428,6 +428,7 @@ td {
     background-size: cover;
     background-position: center;
     height: 733px;
+    padding-bottom: 75px;
 }
 
 .signup-form {

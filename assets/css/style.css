@@ -461,6 +461,7 @@ td {
     background: url(../images/404-image.png);
     background-size: cover;
     background-position: center;
+    height: 800px;
     padding-bottom: 75px;
 }
 
@@ -472,6 +473,17 @@ td {
     position: absolute;
     left: 10%;
     padding: 30px;
+}
+
+.error-message h2 {
+    text-align: center;
+    font-size: 150%;
+    color: white;
+}
+
+.error-message h3 {
+    text-align: center;
+    font-size: 150%;
 }
 
 .return-button {

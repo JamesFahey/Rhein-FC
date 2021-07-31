@@ -331,7 +331,7 @@ https://jamesfahey.github.io/Rhein-FC/
 
 ## Thanks
 
-Special thank you to Adegbenga Adeye for his support and ideas throughout the project 
+Special thank you to Adegbenga Adeye for his support and guidence throughout the project 
 
 
 
